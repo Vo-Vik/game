@@ -1,0 +1,7 @@
+{
+    "type": "yii2-extension",
+    "require": {
+	"yiisoft/yii2-composer" : "dev-master",
+        "yiisoft/yii2": "dev-master"
+    }
+}
